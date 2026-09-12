@@ -31,4 +31,3 @@ I did not reject an entire AI-written draft. My corrections were more specific. 
 I also changed the statement that AI could not decide “what the film meant” to say that it could not decide the work’s ultimate meaning “for me”. This makes my position more precise: AI influences how the work develops, but I still have to judge whether its outputs express what I want to say.
 
 These revisions showed me that plausible wording can still leave out the part of an argument that matters most to me.
-
