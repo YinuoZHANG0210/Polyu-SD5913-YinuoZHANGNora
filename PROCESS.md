@@ -6,7 +6,7 @@ I chose craft and authorship as the direction for this essay and brought my prev
 
 ## How I used Codex
 
-I used Codex for discussion, structure, drafting, Chinese–English translation, editing, Markdown formatting, citation checks, and Git assistance. Its help included generating prose and developing the organisation of the essay, not only correcting grammar. The project account and initial position came from me; Codex helped turn them into drafts that I revised through the conversation and in Chinese.
+I used Codex for discussion, structure, drafting, Chinese–English translation, editing, Markdown formatting, citation checks, and Git assistance. Its help included generating prose and developing the organisation of the essay, not only correcting grammar. The project account and initial position came from me; Codex helped turn them into drafts that I revised through the conversation and in Chinese. In the final review, I authorised further corrections, and Codex edited awkward English and made the connection to learning programming more explicit.
 
 I first asked for brainstorming in the conversation rather than immediate file changes. I then requested a Chinese draft and a bilingual version with corresponding paragraphs. After editing the Chinese, I repeatedly asked Codex to update the English. The current README contains the English essay. I also supplied the film's YouTube link and selected the connections I wanted to explore with Beattie, Lovelace, and Ihde's account of mediation.
 
